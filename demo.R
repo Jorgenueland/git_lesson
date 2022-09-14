@@ -4,8 +4,9 @@ y = rnorm(500)
 
 #important feature
 
+#an alternative way forward
 
 
 
-#Real crazy stuff
+
 #new feature - adding something
